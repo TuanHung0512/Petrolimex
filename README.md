@@ -138,7 +138,7 @@ Website được xây dựng theo mô hình **MVC (Model-View-Controller)** trê
 |UC07|Xem quan hệ cổ đông|Người dùng xem và tải về các tài liệu cổ đông.|
 |UC08|Quản lý nội dung (Admin)|Quản trị viên thêm, sửa, xóa nội dung trong hệ thống.|
 
-![PlantUML diagram](Aspose.Words.dad69301-5f49-44c8-915c-eca7e3fa6f1e.001.pn)
+![PlantUML diagram](Aspose.Words.dad69301-5f49-44c8-915c-eca7e3fa6f1e.001.png)
 
 **4.3 ĐẶC TẢ CHI TIẾT CHỨC NĂNG**
 
