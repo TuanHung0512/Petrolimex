@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GP petrolimex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-05 04:25+0000\n"
+"PO-Revision-Date: 2025-09-11 15:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8; php-7.4.30\n"
+"X-Domain: gp-petrolimex"
+
+#: templates/archive-secrets.php:46 templates/page-secret.php:35
+msgid "All"
+msgstr "Tất cả"
+
+#: templates/blocks/topic-post.php:18 templates/blocks/topic-shareholder.php:49
+msgid "Articles on the same topic"
+msgstr "Bài viết cùng chủ đề"
+
+#. Name of the template
+#: templates/page-secret.php:3
+msgid "Bí quyết"
+msgstr ""
+
+#: templates/blocks/product-grid.php:49
+msgid "Call now"
+msgstr "Gọi ngay"
+
+#: templates/blocks/hotline-modal.php:30
+msgid "Cancel"
+msgstr "Hủy"
+
+#: templates/blocks/story-section.php:73
+msgid "Close description"
+msgstr "Đóng mô tả"
+
+#. Author of the theme
+msgid "TUAN HUNG JSC"
+msgstr ""
+
+#. Name of the template
+#: templates/page-contact.php:3
+msgid "Contact Page"
+msgstr "Trang Liên hệ"
+
+#. Name of the template
+#: templates/page-story.php:3
+msgid "Câu chuyện petrolimex"
+msgstr "petrolimex Story"
+
+#: templates/blocks/shareholder-grid.php:32
+msgid "Data is updating..."
+msgstr "Dữ liệu đang cập nhật..."
+
+#: templates/single-shareholder.php:31
+msgid "Download"
+msgstr "Tải về"
+
+#: templates/single-shareholder.php:39
+msgid "Download link"
+msgstr "Tải về máy"
+
+#: templates/single-shareholder.php:26
+msgid "Download report"
+msgstr ""
+"Tải về báo cáo\n"
+"\n"
+
+#. Name of the template
+#: templates/page-flexible.php:3
+msgid "Flexible"
+msgstr ""
+
+#: inc/class-theme-init.php:123
+msgid "Footer Menu"
+msgstr ""
+
+#. Name of the template
+#: templates/page-about.php:3
+msgid "Giới thiệu"
+msgstr ""
+
+#. Name of the theme
+msgid "GP petrolimex"
+msgstr ""
+
+#. Name of the template
+#: templates/page-home.php:3
+msgid "Home"
+msgstr ""
+
+#: templates/blocks/header-topbar.php:46 templates/blocks/slideout-menu.php:29
+msgid "Hotline"
+msgstr ""
+
+#. Author URI of the theme
+msgid "tuanhungxxbb@gmail.com"
+msgstr ""
+
+#. Name of the template
+#: templates/page-legendary.php:3
+msgid "Huyền thoại petrolimex"
+msgstr ""
+
+#. Name of the template
+#: templates/page-history.php:3
+msgid "Lịch sử"
+msgstr ""
+
+#: templates/archive-post.php:12
+msgid "News and Events"
+msgstr "Tin tức và sự kiện"
+
+#: templates/blocks/pagination.php:34
+msgid "Next page"
+msgstr "Tiếp theo"
+
+#: templates/blocks/post-grid.php:36
+msgid "No posts found."
+msgstr "Không tìm thấy bài viết nào"
+
+#: templates/blocks/pagination.php:33
+msgid "Previous page"
+msgstr "Trang trước"
+
+#: inc/class-theme-init.php:122
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: templates/blocks/bottom-cta.php:13 templates/blocks/product-grid.php:89
+msgid "See more"
+msgstr "Xem thêm"
+
+#: inc/helpers/template-tags.php:397
+#, php-format
+msgid "Share on %s"
+msgstr "Chia sẻ trên %s"
+
+#: templates/single-post.php:43
+msgid "Share this post:"
+msgstr "Chia sẻ bài viết"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#. Name of the template
+#: templates/page-san-pham.php:3
+msgid "Sản Phẩm"
+msgstr ""
+
+#: templates/archive-secrets.php:13
+msgid "The secret power of minerals"
+msgstr "Bí quyết quyền năng của petrolimex"
+
+#. Name of the template
+#: templates/page-news.php:3
+msgid "Tin tức"
+msgstr ""
+
+#: templates/single-shareholder.php:37
+msgid "View detailed report: please click on the"
+msgstr "Xem báo cáo chi tiết: vui lòng nhấn vào đường link"
+
+#: templates/blocks/story-section.php:48
+msgid "View more description"
+msgstr "Xem thêm mô tả"

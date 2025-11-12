@@ -1,0 +1,33 @@
+.post-card__wrapper {
+	padding-left: 5px;
+	padding-right: 6px;
+}
+
+.post-card__inner {
+	width: calc(100% - 0.5em);
+	margin-top: -2em;
+	padding-left: 0.5em;
+	transition: transform 0.3s ease;
+}
+
+.post-card__background-image img {
+	transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.post-card__title {
+	transition: color 0.3s ease;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	text-overflow: ellipsis;
+}
+
+.post-card:hover {
+	& .post-card__title {
+		color: var(--color-light);
+	}
+
+	& .post-card__inner {
+		transform: translateY(-0.5em);
+	}
+}

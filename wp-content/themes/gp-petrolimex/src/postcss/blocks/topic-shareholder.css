@@ -1,0 +1,20 @@
+.topic-shareholder .button-topic-prev,
+.topic-shareholder .button-topic-next {
+	width: 35px;
+	height: 35px;
+	top: calc(50% - 17px);
+
+	@media (--md) {
+		width: 50px;
+		height: 50px;
+		top: calc(50% - 25px);
+	}
+}
+
+.topic-shareholder .button-topic-prev {
+	left: 0;
+}
+
+.topic-shareholder .button-topic-next {
+	right: 0;
+}

@@ -1,0 +1,34 @@
+.intro-banner {
+	height: 600px;
+
+	@media (--md) {
+		height: 800px;
+	}
+}
+
+.intro-banner__logo img {
+	width: 360px;
+
+	@media (--md) {
+		width: 450px;
+	}
+}
+
+.intro-banner__content {
+	@media (--md) {
+		width: 60%;
+	}
+}
+
+.intro-banner__button {
+	width: max-content;
+	padding: 12px 40px;
+}
+
+.intro-banner__description {
+	padding: 10px 15px;
+
+	@media (--sm) {
+		max-width: 780px;
+	}
+}

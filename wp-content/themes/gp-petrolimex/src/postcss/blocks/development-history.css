@@ -1,0 +1,28 @@
+.development-history__image {
+	top: -50px;
+
+	& .image__img {
+		width: 164px;
+	}
+}
+
+.development-history__title {
+	margin-bottom: 0.5rem;
+
+	@media (--md) {
+		margin-bottom: 1.5rem;
+	}
+}
+
+.development-history__box {
+	top: -100px;
+}
+
+.development-history__description {
+	color: var(--color-grey);
+}
+
+.development-history__background img {
+	height: 400px;
+	object-fit: cover;
+}

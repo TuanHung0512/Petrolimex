@@ -1,0 +1,17 @@
+body.has-hotline-modal-opened {
+	& .hotline-modal {
+		opacity: 1;
+		z-index: 1001;
+		pointer-events: visible;
+	}
+}
+
+.hotline-modal__button {
+	&:hover {
+		color: var(--bs-white);
+	}
+}
+
+.hotline-modal__overlay {
+	background: rgba(0, 0, 0, 0.55);
+}

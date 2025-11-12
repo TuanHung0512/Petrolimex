@@ -1,0 +1,17 @@
+.loading-screen {
+	z-index: 998;
+	transition: opacity 0.5s ease-in-out;
+
+	&.is-disabled {
+		opacity: 0;
+		pointer-events: none;
+	}
+}
+
+.loading-screen__bottle-water {
+	z-index: 1;
+}
+
+.loading-screen__bottle-wave {
+	animation: full 2s;
+}

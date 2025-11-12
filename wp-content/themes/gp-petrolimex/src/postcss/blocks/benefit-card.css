@@ -1,0 +1,71 @@
+.benefit-card__overlay {
+	background: linear-gradient(
+		180deg,
+		rgba(0, 0, 0, 0) 0%,
+		rgba(0, 0, 0, 0.25) 100%
+	);
+}
+
+.benefit-card {
+	@media (--max-mobile) {
+		& .benefit-card__title {
+			color: var(--primary-hover) !important;
+			text-decoration: underline;
+		}
+	}
+}
+
+.benefit-card--grid {
+	& .benefit-card__wrapper {
+		align-items: center;
+		opacity: 0;
+		transition: opacity 0.3s ease;
+	}
+
+	& .benefit-card__overlay {
+		display: none;
+	}
+
+	& .benefit-card__title {
+		transform: translateY(5px);
+		text-shadow: -4px 1px 6px var(--bs-gray-600);
+		transition: transform 0.4s ease-in-out;
+	}
+
+	& .benefit-card__image {
+		@mixin abs-full;
+
+		& .image__img {
+			transition: all 0.3s ease;
+		}
+	}
+
+	&:hover {
+		& .benefit-card__image .image__img {
+			filter: blur(30px);
+		}
+
+		& .benefit-card__wrapper {
+			opacity: 1;
+		}
+
+		& .benefit-card__title {
+			transform: translateY(0);
+		}
+	}
+}
+
+.gallery-benefits__swiper .benefit-card {
+	padding-bottom: 30px;
+}
+
+.gallery-benefits__swiper .benefit-card__wrapper {
+	position: static;
+	height: auto;
+	padding: 20px 10px 0 10px;
+}
+
+.gallery-benefits__swiper .benefit-card__overlay,
+.gallery-benefits__swiper .benefit-card__overlay-link {
+	display: none;
+}

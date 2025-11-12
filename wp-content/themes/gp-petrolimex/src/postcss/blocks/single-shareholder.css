@@ -1,0 +1,14 @@
+.single-shareholder__title {
+	width: 95%;
+	color: var(--color-grey);
+
+	@media (--md) {
+		width: 70%;
+	}
+}
+
+.single-shareholder__report-icon {
+	border-color: var(--color-light);
+	width: 35px;
+	height: 35px;
+}

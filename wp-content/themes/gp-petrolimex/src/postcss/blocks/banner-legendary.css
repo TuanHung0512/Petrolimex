@@ -1,0 +1,27 @@
+.banner-legendary__image img {
+	width: 70px;
+
+	@media (--md) {
+		width: 100px;
+	}
+}
+
+.banner-legendary__content {
+	@media (--md) {
+		padding-top: 10%;
+	}
+}
+
+.banner-legendary__title {
+	text-shadow: 1px 1px 6px #404040;
+}
+
+.banner-legendary__note-icon {
+	width: 31px;
+	height: 50px;
+	margin-bottom: 7px;
+}
+
+.banner-legendary__note-icon img {
+	animation: ani_mouse 1.2s infinite;
+}

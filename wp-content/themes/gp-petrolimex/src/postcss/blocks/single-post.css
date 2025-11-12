@@ -1,0 +1,18 @@
+.single-post__share span {
+	color: var(--color-grey-50);
+	margin-bottom: 7px;
+}
+
+.single-post__title {
+	width: 100%;
+
+	@media (--md) {
+		width: 75%;
+	}
+}
+
+.post-slider__prev,
+.post-slider__next {
+	width: 35px;
+	height: 35px;
+}

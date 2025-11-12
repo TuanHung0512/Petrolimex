@@ -1,0 +1,15 @@
+.sticky-contacts {
+	bottom: 70px;
+	left: 10px;
+
+	& .image__img {
+		width: 40px;
+		height: 40px;
+		animation: headShake 9s ease-in-out 0s infinite both;
+
+		@media (--md) {
+			width: 51px;
+			height: 51px;
+		}
+	}
+}

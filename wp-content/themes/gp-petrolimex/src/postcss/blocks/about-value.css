@@ -1,0 +1,16 @@
+.about-value__develop {
+	background: linear-gradient(135deg, #aed1eb 0%, #5493db 100%);
+}
+
+.about-value__button {
+	width: max-content;
+	padding: 12px 40px;
+}
+
+.about-value__content {
+	width: 95%;
+
+	@media (--md) {
+		width: 93%;
+	}
+}

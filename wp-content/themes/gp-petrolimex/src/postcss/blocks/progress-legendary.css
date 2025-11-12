@@ -1,0 +1,13 @@
+.progress-legendary__content {
+	top: -10%;
+
+	@media (--md) {
+		top: 0;
+		padding-top: 13%;
+	}
+}
+
+.progress-legendary__title,
+.progress-legendary__subtitle {
+	text-shadow: 1px 1px 6px #404040;
+}

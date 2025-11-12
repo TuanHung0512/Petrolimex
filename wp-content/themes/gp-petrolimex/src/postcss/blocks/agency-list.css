@@ -1,0 +1,43 @@
+.agency-list__iframe {
+	height: 12em;
+
+	@media (--lg) {
+		height: 16em;
+	}
+
+	& iframe {
+		@mixin abs-full;
+	}
+}
+
+.agency-list__item {
+	transition: all 0.3s ease;
+
+	&:hover {
+		background: rgba(0, 0, 0, 0.05);
+	}
+}
+
+.agency-list__card {
+	gap: 2px;
+}
+
+.agency-list__meta-item {
+	gap: 6px;
+}
+
+.agency-list__icon {
+	@mixin icon 20px;
+}
+
+.agency-list__text {
+	padding-left: 0.25em;
+}
+
+.agency-list--contact-page .agency-list__map {
+	margin-bottom: -2em;
+
+	@media (--lg) {
+		margin-bottom: -3em;
+	}
+}

@@ -1,0 +1,31 @@
+.static-modal {
+	pointer-events: none;
+	z-index: 9999;
+
+	&.active {
+		pointer-events: all;
+	}
+}
+
+.static-modal .modal-body {
+	width: 95%;
+	height: 300px;
+
+	@media (--md) {
+		width: 670px;
+	}
+}
+
+.static-modal .btn-close {
+	right: 0;
+	width: 38px;
+	height: 38px;
+}
+
+.static-modal .btn-close path {
+	stroke: var(--bs-white);
+}
+
+.static-modal .hashtag {
+	color: var(--color-light);
+}

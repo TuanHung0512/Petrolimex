@@ -1,0 +1,48 @@
+.investment-cta__icon {
+	flex: 0 0 auto;
+}
+
+.investment-cta__icon img {
+	width: 40px;
+	height: 40px;
+
+	@media (--md) {
+		height: 60px;
+		width: 60px;
+	}
+}
+
+.investment-cta__content {
+	width: 95%;
+
+	@media (--md) {
+		width: 70%;
+	}
+}
+
+.investment-cta__content p {
+	margin-bottom: 0;
+}
+
+.investment-cta__content a {
+	color: var(--bs-white);
+}
+
+.investment-cta__content strong {
+	color: var(--green-light);
+}
+
+.investment-cta__wrapper {
+	min-height: 200px;
+}
+
+.investment-cta__content {
+	padding: 1.3rem 1rem;
+
+	@media (--md) {
+		padding: 1rem 1.3rem;
+	}
+}
+.investment-cta__item p {
+	font-size: 14px;
+}

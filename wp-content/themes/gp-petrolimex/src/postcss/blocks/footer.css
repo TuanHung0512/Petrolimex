@@ -1,0 +1,29 @@
+.footer__wrapper {
+	z-index: 2;
+
+	@media (--lg) {
+		padding-top: 47px;
+		padding-bottom: 47px;
+	}
+}
+
+.footer__background-image {
+	@mixin abs-full;
+
+	z-index: 1;
+}
+
+.footer__background-color {
+	z-index: 1;
+}
+
+.footer__social-link {
+	width: 36px;
+	height: 36px;
+	transition: opacity 0.3s ease;
+
+	&:hover {
+		color: var(--bs-white);
+		opacity: 0.75;
+	}
+}

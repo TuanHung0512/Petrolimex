@@ -1,0 +1,37 @@
+.text-blue-light {
+	color: var(--color-light);
+}
+
+.text-blue {
+	color: var(--color-blue);
+}
+
+.bg-blue-light {
+	background-color: var(--color-light);
+}
+
+.bg-blue {
+	background-color: var(--color-blue) !important;
+}
+
+.bg-white {
+	background: var(--primary-white);
+}
+
+.bg-aqua-light-gradient {
+	background: linear-gradient(135deg, #e3f2ff 0%, #a9d0f2 100%);
+}
+
+.bg-gray-light-gradient {
+	background: linear-gradient(135deg, #fff 0%, #ebebeb 100%);
+}
+
+.bg-half-blue-white {
+	background: linear-gradient(
+		to bottom,
+		#c8eef9 0%,
+		#cfe9f7 40%,
+		#e9f6fb 60%,
+		#ffffff 100%
+	);
+}

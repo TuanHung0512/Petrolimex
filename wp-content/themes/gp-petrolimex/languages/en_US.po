@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GP petrolimex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-05 04:25+0000\n"
+"PO-Revision-Date: 2025-09-05 04:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8; php-7.4.30\n"
+"X-Domain: gp-petrolimex"
+
+#: templates/single-shareholder.php:36
+msgid "\"Download link\""
+msgstr ""
+
+#: templates/blocks/category-secrets.php:29
+msgid "All"
+msgstr ""
+
+#: templates/blocks/topic-shareholder.php:49
+msgid "Articles on the same topic"
+msgstr ""
+
+#. Name of the template
+#: templates/page-secret.php:3
+msgid "Bí quyết"
+msgstr ""
+
+#: templates/blocks/story-section.php:59
+msgid "Close description"
+msgstr ""
+
+#. Author of the theme
+msgid "TUAN HUNG JSC"
+msgstr ""
+
+#. Name of the template
+#: templates/page-contact.php:3
+msgid "Contact Page"
+msgstr ""
+
+#. Name of the template
+#: templates/page-story.php:3
+msgid "Câu chuyện petrolimex"
+msgstr ""
+
+#: templates/blocks/shareholder-grid.php:32
+msgid "Data is updating..."
+msgstr ""
+
+#: templates/single-shareholder.php:29
+msgid "Download"
+msgstr ""
+
+#: templates/single-shareholder.php:24
+msgid "Download report"
+msgstr ""
+
+#. Name of the template
+#: templates/page-flexible.php:3
+msgid "Flexible"
+msgstr ""
+
+#: inc/class-theme-init.php:122
+msgid "Footer Menu"
+msgstr ""
+
+#. Name of the template
+#: templates/page-about.php:3
+msgid "Giới thiệu"
+msgstr ""
+
+#. Name of the theme
+msgid "GP petrolimex"
+msgstr ""
+
+#. Name of the template
+#: templates/page-home.php:3
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "tuanhungxxbb@gmail.com"
+msgstr ""
+
+#. Name of the template
+#: templates/page-legendary.php:3
+msgid "Huyền thoại petrolimex"
+msgstr ""
+
+#. Name of the template
+#: templates/page-history.php:3
+msgid "Lịch sử"
+msgstr ""
+
+#: inc/class-theme-init.php:121
+msgid "Primary Menu"
+msgstr ""
+
+#: templates/blocks/product-grid.php:71
+msgid "See More"
+msgstr ""
+
+#: inc/helpers/template-tags.php:400
+#, php-format
+msgid "Share on %s"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#. Name of the template
+#: templates/page-san-pham.php:3
+msgid "Sản Phẩm"
+msgstr ""
+
+#: templates/archive-secrets.php:13
+msgid "The secret power of minerals"
+msgstr ""
+
+#. Name of the template
+#: templates/page-news.php:3
+msgid "Tin tức"
+msgstr ""
+
+#: templates/blocks/pagination.php:34
+msgid "Tiếp theo"
+msgstr ""
+
+#: templates/blocks/pagination.php:33
+msgid "Trang trước"
+msgstr ""
+
+#: templates/single-shareholder.php:35
+msgid "View detailed report: please click on the"
+msgstr ""
+
+#: templates/blocks/story-section.php:41
+msgid "View more description"
+msgstr ""
+
+#: templates/page-home.php:42 templates/blocks/achievements-about.php:107
+#: templates/blocks/gallery-benefits.php:62
+msgid "Xem thêm"
+msgstr ""
