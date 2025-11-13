@@ -222,9 +222,15 @@ Website được xây dựng theo mô hình **MVC (Model-View-Controller)** trê
   - Chọn loại nội dung cần quản lý (sản phẩm, tin tức, liên hệ).
   - Thêm, sửa, xóa nội dung.
 - **Kết quả:** Dữ liệu được cập nhật lên website.
+-----
+## **5. HƯỚNG DẪN CÀI ĐẶT.**
+**B1: Tạo 1 trang mới trên local WP**
 
+**B2: clone dự án” git clone git@github.com:TuanHung0512/Petrolimex.git . “**
 
+**B3: import db vào amdinNeo**
 
+**B4: Tải thư mục upload add vào wp-content**
 
-2
+**B5: Chọn opensite**
 
